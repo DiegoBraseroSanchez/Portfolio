@@ -2,7 +2,9 @@ Portfolio DiegoBrasero
 https://diegobraserosanchez-portfolio.netlify.app
 
 Este es mi portfolio donde ire subiendo mis ultimos trabajos y actualizando detalles segun pase el tiempo 😊
+
 El portfolio fue realiazado con React, Js, CSS y tailwind 
+
 100% Responsive mobile
 
 ![porfolio-1](https://github.com/DiegoBraseroSanchez/Portfolio/assets/129300180/b16281f8-5599-4a18-9d1b-a26396453ae4)
