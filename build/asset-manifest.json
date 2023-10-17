@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45b2648d.css",
+    "main.js": "/static/js/main.654b7b11.js",
+    "static/media/DiegoBraseroSánchez.pdf": "/static/media/DiegoBraseroSánchez.23ba509c3a13926e8f36.pdf",
+    "static/media/Diseño sin título (3).png": "/static/media/Diseño sin título (3).96337b2d8a2b922e3b40.png",
+    "static/media/Diseño sin título (2).png": "/static/media/Diseño sin título (2).05452842a4d2d77def47.png",
+    "static/media/Diseño sin título (5).png": "/static/media/Diseño sin título (5).66009630494061661e5c.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/services.png": "/static/media/services.33b53789fcb394b90e58.png",
+    "static/media/CV.pdf": "/static/media/CV.9494f6c054c074bc8f55.pdf",
+    "static/media/about.png": "/static/media/about.57d240e6059b33ad141b.png",
+    "static/media/50520798_350578825792478__n.jpg": "/static/media/50520798_350578825792478_1893153626729392180_n.bcaa0b5b31614396e4a6.jpg",
+    "index.html": "/index.html",
+    "static/media/db-2.svg": "/static/media/db-2.526fa539ae423b59d20e63a0aa7c9359.svg",
+    "main.45b2648d.css.map": "/static/css/main.45b2648d.css.map",
+    "main.654b7b11.js.map": "/static/js/main.654b7b11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b2648d.css",
+    "static/js/main.654b7b11.js"
+  ]
+}
